@@ -7,3 +7,7 @@ Implementa el clásico problema FizzBuzz, pero con una variación. Para números
 ## #2 criba de Erastóstenes
 
 "Implementa un programa que resuelva la criba de Eratóstenes, un algoritmo eficiente para encontrar todos los números primos hasta cierto límite.
+
+## #3 Secuencia de Collatz:
+
+Implementa un programa que genere la secuencia de Collatz para un número dado y determine la longitud de la secuencia.
